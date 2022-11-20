@@ -44,7 +44,8 @@ namespace A2dpf
                 Exit();
 
             // TODO: Add your update logic here
-            hero.Update();
+            hero.Update(gameTime);
+
             base.Update(gameTime);
         }
 
@@ -55,6 +56,7 @@ namespace A2dpf
             hero.Draw(_spriteBatch);
             _spriteBatch.End();
             
+
             
 
             // TODO: Add your drawing code here
