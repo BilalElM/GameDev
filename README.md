@@ -6,5 +6,4 @@ folder classes aangemaakt
 Hero.cs aangemaakt 
 IgameObject aangemaakt
 TODO Voor volgende keer:
-FIX FPS
 Idle
